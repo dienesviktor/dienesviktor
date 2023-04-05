@@ -1,8 +1,7 @@
 ### Hi there! <img src="wave.gif" alt="hello" width="30"/>
 
-- 🌱 I'm a Full-Stack Developer from Hungary, who loves to learn about new things.
-- 💻 I'm familiar with the .NET framework, interested in DevOps, and like web designing.
-- 📂 For references look through my pinned projects.
+- 🌱 I'm a Junior DevOps Engineer from Hungary, who loves to learn about new things.
+- 💻 I'm familiar with Azure, the .NET framework, and interested in web designing.
 - 🔗 I love connecting with different people so if you want to ask me about anything, I'll be happy to respond!
 - 📚 Fun Fact: I ❤️ reading!
 
