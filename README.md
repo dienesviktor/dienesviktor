@@ -8,4 +8,3 @@
 ### How to reach me?
 [![Linkedin Badge](https://img.shields.io/badge/-viktordienes-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-dienes/)
 [![Gmail Badge](https://img.shields.io/badge/-dienesviktor@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dienesviktor@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-dienesviktor%231143-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/415244585581674496)
